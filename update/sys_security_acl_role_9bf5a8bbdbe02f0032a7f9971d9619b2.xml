@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>p.nakov</sys_created_by>
+        <sys_created_on>2018-09-21 09:31:45</sys_created_on>
+        <sys_id>9bf5a8bbdbe02f0032a7f9971d9619b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_249975_leave_man.Leave Management User</sys_name>
+        <sys_package display_value="Leave Management" source="x_249975_leave_man">2eace0b74f0423001521e321a310c7cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management">2eace0b74f0423001521e321a310c7cb</sys_scope>
+        <sys_security_acl display_value="x_249975_leave_man_leave_request.pid">e6f5e8bbdbe02f0032a7f9971d96197c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9bf5a8bbdbe02f0032a7f9971d9619b2</sys_update_name>
+        <sys_updated_by>p.nakov</sys_updated_by>
+        <sys_updated_on>2018-09-21 09:31:45</sys_updated_on>
+        <sys_user_role display_value="x_249975_leave_man.Leave Management User" name="x_249975_leave_man.Leave Management User">9fc1f08d4fd023001521e321a310c797</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
